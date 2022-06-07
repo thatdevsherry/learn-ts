@@ -1,0 +1,10 @@
+{
+  "name": "learn-js-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shehriyar Qureshi",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
